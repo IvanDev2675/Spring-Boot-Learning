@@ -14,7 +14,7 @@ Una API REST desarrollada con Spring Boot para la gestión de productos, impleme
  -Timestamps automáticos de creación y actualización
 
  *Tecnologías Utilizadas
-TecnologíaVersiónPropósitoSpring Boot3.xFramework principalSpring Data JPA3.xPersistencia de datosSpring Security6.xAutenticación básicaMySQL8.xBase de datosMaven4.xGestión de dependencias
+TecnologíaVersiónPropósitoSpring Boot3.xFramework principalSpring Data JPA3.xPersistencia de datosMySQL8.xBase de datosMaven4.xGestión de dependencias
  Requisitos Previos
 
 Java 17 o superior
